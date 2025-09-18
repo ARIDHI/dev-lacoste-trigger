@@ -1,10 +1,9 @@
-name: trigger tests
+name: trigger mobiel tests
 
 on:
   push:
     branches:
       - main
-
 jobs:
   notify:
     runs-on: ubuntu-latest
