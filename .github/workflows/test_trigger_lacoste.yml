@@ -1,4 +1,4 @@
-name: trigger mobiel tests
+name: trigger mobile tests
 
 on:
   push:
